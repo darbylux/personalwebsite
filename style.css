@@ -22,6 +22,12 @@ li a{
     color: lightyellow;
 
 }
+
+#Main{
+    float: left;
+    display : block;
+
+}
 #Information
 {
     background-color:lightpink;
