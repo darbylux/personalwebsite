@@ -1,10 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-/* Basic Layout */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -41,8 +35,6 @@ intro
 
 
 }
-
-
 
 .profile-photo {
     border-radius: 50%;
