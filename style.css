@@ -1,40 +1,67 @@
-nav
-{
-    background-color:lightyellow;
-    height: 100vh;
-    float: left;
-
-}
-ul{
-    list-style-type: none;
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-li a{
-    background-color: lightpink;
-    padding: 1em 1.5em;
-    display: block;
-    margin: 5px;
-    border-radius: 20px;
-    text-transform: uppercase;
+/* Basic Layout */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+header nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
     text-decoration: none;
-    color: lightyellow;
-
+    font-weight: bold;
 }
 
-#Main{
-    float: left;
-    display : block;
-
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
 }
-#Information
-{
-    background-color:lightpink;
-    border: 5px dotted hotpink;
-    margin: 25px;
-    padding: 15px;
-    box-shadow: 0 4px 8px 0 lightpink;
-    width: 275px;
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+h1 {
+    color: #444;
+    margin-bottom: 20px;
+}
+
+.profile-photo {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+ul {
+    list-style-type: square;
+    margin: 10px 0;
 }
 
