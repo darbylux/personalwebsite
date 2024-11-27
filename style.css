@@ -42,25 +42,7 @@ intro
 
 }
 
-main {
-    max-width: 1200px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: white;
-    border-radius: 8px;
-}
 
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #333;
-    color: white;
-}
-
-h1 {
-    color: #444;
-    margin-bottom: 20px;
-}
 
 .profile-photo {
     border-radius: 50%;
@@ -68,8 +50,4 @@ h1 {
     height: 150px;
 }
 
-ul {
-    list-style-type: square;
-    margin: 10px 0;
-}
 
