@@ -27,5 +27,16 @@ intro
     width: 150px;
     height: 150px;
 }
+nav
+{
+    background-color:lightyellow;
+    height: 100vh;
+    float: left;
 
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
