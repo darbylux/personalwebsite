@@ -10,7 +10,7 @@ li a{
 
 }
 
-intro
+.intro
 {
     background-color:lightpink;
     border: 5px dotted hotpink;
@@ -22,7 +22,7 @@ intro
 
 }
 
-projects
+.projects
 {
     background-color:lightpink;
     border: 5px dotted hotpink;
@@ -33,7 +33,7 @@ projects
 
 }
 
-skills{
+.skills{
  background-color:lightpink;
     border: 5px dotted hotpink;
     margin: 25px;
