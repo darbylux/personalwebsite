@@ -30,6 +30,18 @@ li a{
 
 }
 
+#intro
+{
+    background-color:lightpink;
+    border: 5px dotted hotpink;
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 lightpink;
+    width: 275px;
+
+
+}
+
 main {
     max-width: 1200px;
     margin: 20px auto;
