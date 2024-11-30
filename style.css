@@ -18,6 +18,8 @@ li a{
     padding: 15px;
     box-shadow: 0 4px 8px 0 lightpink;
     width: 275px;
+    float: left;
+    display: block;
 
 
 }
@@ -30,6 +32,8 @@ projects
     padding: 15px;
     box-shadow: 0 4px 8px 0 lightpink;
     width: 275px;
+     float: left;
+ display: block;
 
 }
 
@@ -40,6 +44,8 @@ skills{
     padding: 15px;
     box-shadow: 0 4px 8px 0 lightpink;
     width: 275px;
+     float: left;
+ display: block;
 }
     
 
