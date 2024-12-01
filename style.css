@@ -49,6 +49,8 @@ li a{
     border-radius: 50%;
     width: 150px;
     height: 150px;
+    float: Center;
+    display: block;
 }
 nav
 {
