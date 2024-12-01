@@ -37,7 +37,7 @@ main
 
 }
 
-main .skills{
+.skills{
     background-color:lightpink;
     border: 5px dotted hotpink;
     margin: 25px;
