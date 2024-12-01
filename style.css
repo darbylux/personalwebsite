@@ -17,7 +17,7 @@ li a{
     margin: 25px;
     padding: 15px;
     box-shadow: 0 4px 8px 0 lightpink;
-    width: 400px;
+    width: 600px;
     float: left;
     display: block;
 
@@ -46,11 +46,9 @@ li a{
 }    
 
 .profile-photo {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    float: Center;
-    display: block;
+    border-radius: 5%;
+    width: 600px;
+    height: 400px;
 }
 nav
 {
