@@ -24,19 +24,6 @@ li a{
 
 }
 
-main
-{
-    background-color:lightpink;
-    border: 5px dotted hotpink;
-    margin: 25px;
-    padding: 15px;
-    box-shadow: 0 4px 8px 0 lightpink;
-    width: 275px;
-    float: left;
-    display: block;
-
-}
-
 .skills{
     background-color:lightpink;
     border: 5px dotted hotpink;
@@ -47,7 +34,16 @@ main
     float: left;
     display: block;
 }
-    
+.projects{
+    background-color:lightpink;
+    border: 5px dotted hotpink;
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 lightpink;
+    width: 275px;
+    float: left;
+    display: block;
+}    
 
 .profile-photo {
     border-radius: 50%;
